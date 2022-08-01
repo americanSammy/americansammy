@@ -1,8 +1,8 @@
 ### Hi there! I'm Samantha 💖
-## I'm a Mother, Developer, and a Veteran
+## I'm a Mother, Developer, and a Veteran (Go Navy!)
 
-- **Languages:** C#, Javascript (I realize my commits are mostly Python, but they're from my years in uni!)
-- **Frameworks:** Angular (lots of time with Angular Material)
+- **Languages:** C#, TypeScript (I realize my commits are mostly Python, but they're from my years in uni!)
+- **Frameworks:** Angular (lots of time with Angular Material), Tailwind (big sad)
 - **Pronouns:** She/Her/Hers
 
  #### Interests:
