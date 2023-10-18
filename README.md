@@ -10,4 +10,4 @@
   - Decentralizing the Internet😌 (*the irony is not lost*)
   - The nostalgia of everyone using HTML and CSS on MySpace
 
-**Fun Fact:** I have (only) seen 🎺 Dave Matthews Band 🎸 live 15 times. I am going for 100 shows, but after 30 years of touring, I am not sure the band will last as long as my desire to see them perform.
+**Fun Fact:** I have (only) seen 🎺 Dave Matthews Band 🎸 live 18 times. I am going for 100 shows, but after 30 years of touring, I am not sure the band will last as long as my desire to see them perform.
