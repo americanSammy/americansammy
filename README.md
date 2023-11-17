@@ -14,4 +14,4 @@
 
 **Fun Fact:** I have (only) seen 🎺 Dave Matthews Band 🎸 live 18 times. I am going for 100 shows, but after 30 years of touring, I am not sure the band will last as long as my desire to see them perform.
 
-LinkedIn: https://www.linkedin.com/in/samanthamichellebrown/details/experience/
+LinkedIn: https://www.linkedin.com/in/sammichbrown/details/experience/
