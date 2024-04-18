@@ -1,14 +1,11 @@
 ### Hi there! I'm Samantha 💖
-## I'm a Mother, Developer, and a Veteran (Go Navy!)
-
-- **Languages:** C#, TypeScript (I realize my commits are mostly Python, but they're from my years in uni!)
-- **Frameworks:** Angular (lots of time with Angular Material), Tailwind (big sad)
-
+## I'm a Mother, Cybersecurity Engineer, Developer, and a Veteran (Go Navy!)
+I am a CompTIA Security+ certified programmer, though I have many interests within IT!
 
  #### Interests:
   - Artifical Intelligence 🤖
   - Decentralizing the Internet😌 (*the irony is not lost*)
-  - Ethical Hacking
+  - Ethical Hacking, Security Researching
   - Digital Forensics
   - The nostalgia of everyone using HTML and CSS on MySpace
 
